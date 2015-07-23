@@ -1,0 +1,20 @@
+# problem1-TwoSum
+problem1-TwoSum/obj/*
+problem1-TwoSum/bin/*
+
+# problem2-AddTwoNumbers
+problem2-AddTwoNumbers/obj/*
+problem2-AddTwoNumbers/bin/*
+
+# problem3-LongetsSubstringWithoutRepeatingCaracters
+problem3-LongetsSubstringWithoutRepeatingCaracters/obj/*
+problem3-LongetsSubstringWithoutRepeatingCaracters/bin/*
+
+# problem4-MediamOfTwoSortedArrays
+problem4-MediamOfTwoSortedArrays/obj/*
+problem4-MediamOfTwoSortedArrays/bin/*
+
+# problem5-LongestPalindromicSubstring
+problem5-LongestPalindromicSubstring/obj/*
+problem5-LongestPalindromicSubstring/bin/*
+
