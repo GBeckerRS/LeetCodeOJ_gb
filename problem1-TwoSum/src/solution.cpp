@@ -1,6 +1,6 @@
 #include    "inc/solution.h"
 
-// O(n²)
+// O(nlog n)
 std::vector<int> Solution::twoSum(std::vector<int>& nums, int target)
 {
     std::vector<int> res;
